@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @kabreu13
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello, my name is Kyle Abreu.
+I am a Senior at FSU and Welcome to my portfolio. 
+Here you will mostly find class projects I have done during college. As I grow, I plan on posting all of my side projects on here.
 
-<!---
-kabreu13/kabreu13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
