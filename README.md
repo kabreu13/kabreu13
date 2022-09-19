@@ -10,3 +10,5 @@
 Here you will find class projects I have done during college, but as I grow, I plan on sharing all of my side projects.<./h2>
 Hit STAR to stay connected and watch me grow.
 //Need to make this look better
+
+[![Kyle Abreu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabreu13)](https://github.com/anuraghazra/github-readme-stats)
