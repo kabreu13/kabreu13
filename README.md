@@ -1,5 +1,5 @@
 <h1>public class kyleAbreu</h1>
-<h3>String status = "Senior;"</h3>
+<h3>String status = "Senior";</h3>
 <h3>boolean willingToLearn = true;</h3>
 
 <h2>Welcome To My Portfolio</h2>
